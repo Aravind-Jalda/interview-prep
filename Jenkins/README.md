@@ -1,20 +1,22 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository helps in preparing for DevOps interviews with simple and practical explanations.
+This repository is designed to help prepare for DevOps interviews with practical and easy-to-understand explanations.
 
 ---
 
 ## ⚙️ Jenkins Section
 
-File: `jenkins-qa.md`
+Files:
+- `jenkins-qa.md`
+- `jenkins-scenarios.md`
 
 Covers:
 - CI/CD concepts
-- Jenkins pipelines
-- Jobs and agents
-- Integration with Git
-- Real-world usage
+- Pipelines and Jenkinsfile
+- Real-time scenarios
+- Debugging and troubleshooting
+- Deployment strategies
 
 ---
 
@@ -22,7 +24,7 @@ Covers:
 
 - DevOps Engineers (2–5 years)
 - CI/CD Engineers
-- Beginners learning Jenkins
+- Professionals preparing for interviews
 
 ---
 
