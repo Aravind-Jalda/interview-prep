@@ -3,24 +3,6 @@
 ## 📌 Objective
 This repository helps in preparing for DevOps interviews with practical and simple explanations.
 
----
-
-## 📂 Contents
-
-- Git Interview Questions ✅
-- Linux Commands ✅
-- Bash Scripting ✅
-- Jenkins (Basic + Scenarios) ✅
-- AWS (Basic + Scenarios) ✅
-- Azure (Basic + Scenarios) ✅
-- Networking (Basic + Scenarios) ✅
-- Docker (Basic + Scenarios) ✅
-- Kubernetes (Basic + Scenarios) ✅
-- Prometheus (Basic + Scenarios) ✅
-- Grafana (Basic + Scenarios) ✅
-
----
-
 ## 📊 Grafana Section
 
 Files:
