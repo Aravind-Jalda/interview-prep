@@ -1,4 +1,4 @@
-# AWS Scenario-Based Interview Questions & Answers (DevOps - 2 to 5 Years) ..
+# AWS Scenario-Based Interview Questions & Answers (DevOps - 2 to 5 Years)
 
 ---
 
