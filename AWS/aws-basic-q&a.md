@@ -123,6 +123,6 @@ Helps automate provisioning.
 - Host applications (EC2, ECS, EKS)
 - Store data (S3)
 - Automate deployments (CodePipeline, Jenkins)
-- Monitor systems (CloudWatch)
+- Monitor systems (CloudWatch) ..
 
 ---
