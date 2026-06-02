@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Pipeline is failing. What will you do?..
+## 1. Pipeline is failing. What will you do?
 
 - Check logs  
 - Identify failed stage  
