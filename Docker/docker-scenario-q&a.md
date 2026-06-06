@@ -4,7 +4,7 @@
 
 ## 1. Container is not starting. What will you check?
 
-- Check logs (docker logs)  
+- Check logs (docker logs)
 - Verify Dockerfile  
 - Check command/entrypoint  
 - Check port conflicts  
