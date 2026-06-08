@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is Helm?
-Helm is a package manager for Kubernetes used to deploy and manage applications...
+Helm is a package manager for Kubernetes used to deploy and manage applications.
 
 ---
 
