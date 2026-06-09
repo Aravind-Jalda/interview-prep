@@ -1,9 +1,9 @@
-# Jenkins Interview Questions & Answers (DevOps - 4 Years)
+# Jenkins Interview Questions & Answers (DevOps: 2 - 5 Years)
 
 ---
 
 ## 1. What is Jenkins?
-Jenkins is an open-source automation tool used for CI/CD (Continuous Integration and Continuous Deployment).  
+Jenkins is an open-source automation tool used for CI/CD (Continuous Integration and Continuous Deployment)...
 It helps automate building, testing, and deploying applications.
 
 ---
