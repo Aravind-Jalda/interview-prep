@@ -4,7 +4,7 @@
 
 ## 1. You pushed wrong code to production via Jenkins. What will you do?
 
-First, I will immediately stop any ongoing deployments in Jenkins.  
+First, I will immediately stop any ongoing deployments in Jenkins...  
 Then:
 - Rollback to previous stable version (using previous build or artifact)
 - Identify root cause (wrong branch / manual trigger / config issue)
