@@ -4,7 +4,7 @@
 
 ## 1. Metrics are not showing in Prometheus. What will you check?
 
-- Target status in Prometheus UI  
+- Target status in Prometheus UI..
 - Check scrape configuration  
 - Verify exporter is running  
 - Check network connectivity  
