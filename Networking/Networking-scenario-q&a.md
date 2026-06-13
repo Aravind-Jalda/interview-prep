@@ -4,7 +4,7 @@
 
 ## 1. Server is not reachable. What will you check?
 
-- Check if server is running..
+- Check if server is running
 - Ping the server  
 - Check firewall rules  
 - Verify security group/NSG  
