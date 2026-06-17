@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Terraform apply failed. What will you do?
+## 1. Terraform apply failed. What will you do?..
 
 - Check error message  
 - Fix configuration  
