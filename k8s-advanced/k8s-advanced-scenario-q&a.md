@@ -4,7 +4,7 @@
 
 ## 1. Pod is running but not receiving traffic. Why?
 
-- Readiness probe failing  
+- Readiness probe failing  ..
 - Service misconfigured  
 - Port mismatch  
 
