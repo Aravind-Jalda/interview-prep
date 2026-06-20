@@ -1,2 +1,2 @@
 # interview-prep
-Interview Q&amp;As are stored here..
+Interview Q&amp;As are stored here
