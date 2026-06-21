@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Your website is down. How do you troubleshoot?..
+## 1. Your website is down. How do you troubleshoot?
 
 Steps:
 - Check EC2 instance status
