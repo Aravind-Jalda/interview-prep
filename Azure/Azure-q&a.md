@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is Azure?
-Azure is Microsoft’s cloud platform that provides services like compute, storage, networking, and databases.
+Azure is Microsoft’s cloud platform that provides services like compute, storage, networking, and databases...
 
 ---
 
