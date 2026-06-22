@@ -4,7 +4,7 @@
 
 ## 1. Playbook failed. What will you do?
 
-- Check error message..
+- Check error message
 - Verify YAML syntax  
 - Check logs  
 - Fix and rerun  
