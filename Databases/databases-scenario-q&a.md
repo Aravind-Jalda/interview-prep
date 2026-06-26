@@ -4,7 +4,7 @@
 
 ## 1. Application is slow due to database. What will you do?
 
-- Check query performance  
+- Check query performance..
 - Check indexes  
 - Check DB load  
 
