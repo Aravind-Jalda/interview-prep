@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is Git?
-Git is a distributed version control system used to track changes in code.  
+Git is a distributed version control system used to track changes in code...
 It allows multiple developers to work on the same project without overwriting each other's work.  
 Each developer has a local copy of the repository, which improves speed and reliability.
 
