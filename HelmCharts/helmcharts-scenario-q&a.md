@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Helm deployment failed. What will you do?
+## 1. Helm deployment failed. What will you do?..
 
 - Check error message  
 - Run helm lint  
