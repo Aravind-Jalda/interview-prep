@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is Grafana?
-Grafana is an open-source visualization tool used to create dashboards for monitoring data.
+Grafana is an open-source visualization tool used to create dashboards for monitoring data...
 It is commonly used with Prometheus to visualize metrics.
 
 ---
