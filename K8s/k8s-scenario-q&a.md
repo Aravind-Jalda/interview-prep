@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Pod is not running. What will you check?
+## 1. Pod is not running. What will you check?..
 
 - kubectl get pods  
 - kubectl describe pod  
