@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is a network?
-A network is a group of connected devices that can communicate with each other...
+A network is a group of connected devices that can communicate with each other.
 In DevOps, it connects servers, applications, and services.
 
 ---
