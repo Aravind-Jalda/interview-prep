@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Metrics are not showing in Prometheus. What will you check?..
+## 1. Metrics are not showing in Prometheus. What will you check?
 
 - Target status in Prometheus UI
 - Check scrape configuration  
