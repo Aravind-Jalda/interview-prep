@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is DevOps?
-DevOps is a culture and set of practices that combines development and operations teams.  
+DevOps is a culture and set of practices that combines development and operations teams...
 The goal is to deliver software faster, more reliably, and with better quality using automation and collaboration.
 
 ---
