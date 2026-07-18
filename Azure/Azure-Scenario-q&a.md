@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Your application hosted on Azure is down. What will you check?..
+## 1. Your application hosted on Azure is down. What will you check?
 
 - VM/App Service status 
 - NSG rules  
