@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is a Bash script?
-A Bash script is a file containing a series of commands that are executed in sequence...
+A Bash script is a file containing a series of commands that are executed in sequence.
 It is used to automate repetitive tasks like deployments, backups, and monitoring.
 
 ---
