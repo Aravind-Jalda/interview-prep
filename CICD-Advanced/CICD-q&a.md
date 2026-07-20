@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is CI/CD pipeline?
-A CI/CD pipeline is a sequence of automated steps to build, test, and deploy applications.
+A CI/CD pipeline is a sequence of automated steps to build, test, and deploy applications...
 
 ---
 
