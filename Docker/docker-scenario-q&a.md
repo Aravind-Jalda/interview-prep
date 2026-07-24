@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Container is not starting. What will you check?
+## 1. Container is not starting. What will you check?..
 
 - Check logs (docker logs)
 - Verify Dockerfile
