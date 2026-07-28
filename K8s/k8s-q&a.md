@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is Kubernetes?
-Kubernetes (K8s) is a container orchestration tool used to deploy, manage, and scale containerized applications...
+Kubernetes (K8s) is a container orchestration tool used to deploy, manage, and scale containerized applications.
 
 ---
 
