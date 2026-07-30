@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is logging?
-Logging is the process of recording events from applications and systems...
+Logging is the process of recording events from applications and systems.
 
 ---
 
