@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Server is not reachable. What will you check?
+## 1. Server is not reachable. What will you check?..
 
 - Check if server is running
 - Ping the server  
