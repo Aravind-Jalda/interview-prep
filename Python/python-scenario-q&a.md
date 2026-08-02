@@ -2,7 +2,7 @@
 
 ---
 
-## 1. How do you automate a task using Python?..
+## 1. How do you automate a task using Python?
 
 - Write script  
 - Use loops/conditions  
