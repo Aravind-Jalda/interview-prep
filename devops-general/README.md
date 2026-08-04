@@ -1,7 +1,7 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository helps in preparing for DevOps interviews with simple and practical explanations.
+This repository helps in preparing for DevOps interviews with simple and practical explanations...
 
 ## ⚙️ DevOps Basics Section
 
