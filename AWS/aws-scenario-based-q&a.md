@@ -5,7 +5,7 @@
 ## 1. Your website is down. How do you troubleshoot?
 
 Steps:
-- Check EC2 instance status
+- Check EC2 instance status..
 - Verify security group (port 80/443 open)
 - Check load balancer health
 - Check application logs
