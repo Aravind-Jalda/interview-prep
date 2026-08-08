@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is Ansible?
-Ansible is an open-source automation tool used for configuration management, application deployment, and orchestration.
+Ansible is an open-source automation tool used for configuration management, application deployment, and orchestration...
 
 ---
 
