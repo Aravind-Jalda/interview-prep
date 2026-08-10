@@ -1,7 +1,7 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository is created to help prepare for DevOps interviews with simple and practical explanations.
+This repository is created to help prepare for DevOps interviews with simple and practical explanations...
 
 
 ## 🐚 Bash Scripting Section
