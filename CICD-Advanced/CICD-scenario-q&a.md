@@ -4,7 +4,7 @@
 
 ## 1. Pipeline is failing. What will you do?
 
-- Check logs  
+- Check logs..
 - Identify failed stage  
 - Fix issue  
 - Re-run pipeline  
