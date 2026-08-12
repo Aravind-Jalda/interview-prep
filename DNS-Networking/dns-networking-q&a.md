@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is networking?
-Networking is the communication between systems over a network...
+Networking is the communication between systems over a network.
 
 ---
 
