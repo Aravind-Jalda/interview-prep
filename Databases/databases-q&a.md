@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is a database?
-A database is a system used to store and manage data.
+A database is a system used to store and manage data...
 
 ---
 
