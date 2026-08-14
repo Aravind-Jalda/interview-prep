@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is DevOps Security (DevSecOps)?
-DevSecOps is the practice of integrating security into every stage of the DevOps lifecycle...
+DevSecOps is the practice of integrating security into every stage of the DevOps lifecycle.
 
 ---
 
