@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Dashboard is not showing data. What will you check?
+## 1. Dashboard is not showing data. What will you check?..
 
 - Check data source connection  
 - Verify query  
