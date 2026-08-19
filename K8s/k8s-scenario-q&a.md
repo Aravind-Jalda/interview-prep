@@ -4,7 +4,7 @@
 
 ## 1. Pod is not running. What will you check?
 
-- kubectl get pods..
+- kubectl get pods
 - kubectl describe pod  
 - kubectl logs  
 - Check image, resources, errors  
