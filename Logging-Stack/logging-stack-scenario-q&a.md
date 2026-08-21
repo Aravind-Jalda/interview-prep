@@ -4,7 +4,7 @@
 
 ## 1. Application is failing. How do you debug?
 
-- Check logs  
+- Check logs  ..
 - Identify error  
 - Trace issue  
 
