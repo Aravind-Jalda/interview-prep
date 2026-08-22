@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is Prometheus?
-Prometheus is an open-source monitoring and alerting tool.
+Prometheus is an open-source monitoring and alerting tool...
 It collects metrics from systems and stores them as time-series data.
 
 ---
