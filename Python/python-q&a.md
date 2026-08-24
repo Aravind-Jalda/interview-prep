@@ -3,7 +3,7 @@
 ---
 
 ## 1. Why Python is used in DevOps?
-Python is simple and powerful for automation.  
+Python is simple and powerful for automation...
 It is used for scripting, API calls, file handling, and automation tasks.
 
 ---
