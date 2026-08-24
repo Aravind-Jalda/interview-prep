@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is Terraform?
-Terraform is an Infrastructure as Code (IaC) tool used to create and manage infrastructure using code...
+Terraform is an Infrastructure as Code (IaC) tool used to create and manage infrastructure using code.
 
 ---
 
