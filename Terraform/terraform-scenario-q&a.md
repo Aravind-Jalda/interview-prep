@@ -4,7 +4,7 @@
 
 ## 1. Terraform apply failed. What will you do?
 
-- Check error message  
+- Check error message..
 - Fix configuration  
 - Run plan again  
 - Re-apply  
