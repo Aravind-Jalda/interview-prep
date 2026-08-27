@@ -3,7 +3,7 @@
 ---
 
 ## 1. What is AWS?.
-AWS (Amazon Web Services) is a cloud platform that provides services like compute, storage, networking, and databases on demand.
+AWS (Amazon Web Services) is a cloud platform that provides services like compute, storage, networking, and databases on demand...
 
 ---
 
