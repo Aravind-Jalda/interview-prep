@@ -1,9 +1,9 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository helps in preparing for DevOps interviews with practical and easy-to-understand explanations...
+This repository helps in preparing for DevOps interviews with practical and easy-to-understand explanations.
 
-## ☁️ AWS Section
+## ☁️ AWS Section..
 
 Files:
 - `aws-qa.md`
