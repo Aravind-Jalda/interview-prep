@@ -6,7 +6,7 @@
 
 Steps:
 - Check EC2 instance status
-- Verify security group (port 80/443 open)
+- Verify security group (port 80/443 open)..
 - Check load balancer health
 - Check application logs
 - Verify DNS (Route 53)
