@@ -10,7 +10,7 @@ Files:
 - `azure-scenarios.md`
 
 Covers:
-- Core Azure services
+- Core Azure services..
 - Networking and security
 - Monitoring and scaling
 - Real-time troubleshooting scenarios
