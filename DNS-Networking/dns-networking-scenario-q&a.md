@@ -4,7 +4,7 @@
 
 ## 1. Website is not accessible. What will you do?
 
-- Check DNS  
+- Check DNS  ..
 - Check IP  
 - Check server  
 - Check firewall  
