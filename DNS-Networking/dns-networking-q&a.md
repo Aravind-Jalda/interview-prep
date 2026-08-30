@@ -8,7 +8,7 @@ Networking is the communication between systems over a network.
 ---
 
 ## 2. What is DNS?
-DNS (Domain Name System) converts domain names into IP addresses.
+DNS (Domain Name System) converts domain names into IP addresses...
 
 ---
 
