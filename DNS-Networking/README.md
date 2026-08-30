@@ -6,7 +6,7 @@ This repository helps in preparing for DevOps interviews with practical and real
 ## 🌐 DNS & Networking Section
 
 Files:
-- `dns-networking-qa.md`
+- `dns-networking-qa.md`..
 - `dns-networking-scenarios.md`
 
 Covers:
