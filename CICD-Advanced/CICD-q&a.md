@@ -9,7 +9,7 @@ A CI/CD pipeline is a sequence of automated steps to build, test, and deploy app
 
 ## 2. What are stages in a pipeline?
 Common stages:
-- Build  
+- Build  ..
 - Test  
 - Deploy  
 
