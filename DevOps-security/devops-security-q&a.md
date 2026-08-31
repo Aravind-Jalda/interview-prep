@@ -8,7 +8,7 @@ DevSecOps is the practice of integrating security into every stage of the DevOps
 ---
 
 ## 2. Why security is important in DevOps?
-- Prevent data breaches  
+- Prevent data breaches  ..
 - Protect applications  
 - Ensure compliance  
 - Avoid production issues  
