@@ -10,7 +10,7 @@
 
 ---
 
-## 2. Unable to connect to database
+## 2. Unable to connect to database..
 
 - Check DB status  
 - Check connection string  
