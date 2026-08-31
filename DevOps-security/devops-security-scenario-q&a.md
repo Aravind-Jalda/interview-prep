@@ -5,7 +5,7 @@
 ## 1. Credentials are exposed in code. What will you do?
 
 - Remove credentials
-- Rotate keys  
+- Rotate keys  ..
 - Use secret manager  
 
 ---
