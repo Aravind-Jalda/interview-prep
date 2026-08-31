@@ -7,7 +7,7 @@ A database is a system used to store and manage data.
 
 ---
 
-## 2. What is MySQL?
+## 2. What is MySQL?..
 MySQL is an open-source relational database used to store structured data.
 
 ---
