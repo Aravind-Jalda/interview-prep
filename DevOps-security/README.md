@@ -10,7 +10,7 @@ Files:
 - `devops-security-scenarios.md`
 
 Covers:
-- IAM and access control
+- IAM and access control..
 - Secrets management
 - CI/CD security
 - Container and cloud security
