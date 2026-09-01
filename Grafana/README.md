@@ -10,7 +10,7 @@ Files:
 - `grafana-scenarios.md`
 
 Covers:
-- Dashboard creation
+- Dashboard creation..
 - Visualization concepts
 - Alerting
 - Troubleshooting scenarios
