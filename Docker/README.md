@@ -11,7 +11,7 @@ Files:
 - `docker-scenarios.md`
 
 Covers:
-- Container basics
+- Container basics..
 - Docker commands
 - Image and container management
 - Real-time troubleshooting scenarios
