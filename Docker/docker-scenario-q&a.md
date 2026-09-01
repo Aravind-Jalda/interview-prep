@@ -13,7 +13,7 @@
 
 ## 2. Application inside container is not accessible. Why?
 
-- Port not exposed  
+- Port not exposed..
 - Port mapping missing  
 - Firewall issue  
 - Application not running  
