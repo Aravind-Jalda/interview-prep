@@ -10,7 +10,7 @@ Each developer has a local copy of the repository, which improves speed and reli
 ---
 
 ## 2. Difference between Git and GitHub?
-Git is a command-line tool used for version control.  
+Git is a command-line tool used for version control...
 GitHub is a cloud platform where Git repositories are stored and shared.  
 GitHub also provides features like pull requests, code review, and collaboration.
 
