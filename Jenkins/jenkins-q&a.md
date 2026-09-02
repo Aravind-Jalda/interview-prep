@@ -9,7 +9,7 @@ It helps automate building, testing, and deploying applications.
 ---
 
 ## 2. What is CI/CD?
-- CI (Continuous Integration) → Automatically build and test code when changes are pushed  
+- CI (Continuous Integration) → Automatically build and test code when changes are pushed..
 - CD (Continuous Deployment/Delivery) → Automatically deploy code to environments  
 
 Jenkins is widely used to implement CI/CD pipelines.
