@@ -9,7 +9,7 @@ Helm is a package manager for Kubernetes used to deploy and manage applications.
 
 ## 2. Why Helm is used?
 
-- Simplifies deployments  
+- Simplifies deployments..
 - Reusable configurations  
 - Version control for deployments  
 
