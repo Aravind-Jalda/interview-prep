@@ -13,7 +13,7 @@
 
 ## 2. How do you update application using Helm?
 
-- Update values  
+- Update values..
 - Run helm upgrade  
 
 ---
