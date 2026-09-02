@@ -12,7 +12,7 @@ Files:
 - `jenkins-scenarios.md`
 
 Covers:
-- CI/CD concepts
+- CI/CD concepts..
 - Pipelines and Jenkinsfile
 - Real-time scenarios
 - Debugging and troubleshooting
