@@ -10,7 +10,7 @@ Files:
 - `helm-scenarios.md`
 
 Covers:
-- Helm chart structure
+- Helm chart structure..
 - Deployment and upgrades
 - Configuration management
 - Real-world troubleshooting
