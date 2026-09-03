@@ -11,7 +11,7 @@ Files:
 - `kubernetes-scenarios.md`
 
 Covers:
-- Core Kubernetes concepts
+- Core Kubernetes concepts..
 - Deployment and scaling
 - Troubleshooting scenarios
 - Real-time usage
