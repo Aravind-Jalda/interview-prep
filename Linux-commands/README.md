@@ -8,7 +8,7 @@ This repository helps in preparing for DevOps interviews with simple and practic
 File: `linux-qa.md`
 
 Covers:
-- Basic Linux commands
+- Basic Linux commands..
 - File and directory operations
 - Permissions and ownership
 - Process management
