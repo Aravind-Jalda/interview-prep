@@ -9,7 +9,7 @@ It is stable, secure, and highly customizable, which makes it ideal for DevOps w
 ---
 
 ## 2. What is a shell?
-A shell is a command-line interface that allows users to interact with the OS.  
+A shell is a command-line interface that allows users to interact with the OS...
 Common shells: bash, sh, zsh.  
 In DevOps, we mostly use bash scripting for automation.
 
