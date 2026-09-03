@@ -10,7 +10,7 @@ Files:
 - `logging-stack-scenarios.md`
 
 Covers:
-- ELK stack basics
+- ELK stack basics..
 - Log collection and storage
 - Debugging using logs
 - Real-world troubleshooting
