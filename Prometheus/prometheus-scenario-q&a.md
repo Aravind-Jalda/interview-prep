@@ -13,7 +13,7 @@
 
 ## 2. How do you debug a target down issue?
 
-- Check if service is running  
+- Check if service is running   and check endpoint URL
 - Check endpoint URL  
 - Verify firewall  
 - Check logs  
