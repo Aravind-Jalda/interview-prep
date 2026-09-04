@@ -14,7 +14,7 @@
 
 ## 2. Website is not opening. What will you do?
 
-- Check DNS resolution  
+- Check DNS resolution  and Ping domain
 - Ping domain  
 - Check server status  
 - Verify ports (80/443)  
