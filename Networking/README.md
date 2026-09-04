@@ -11,7 +11,7 @@ Files:
 - `networking-scenarios.md`
 
 Covers:
-- Networking fundamentals
+- Networking fundamentals and troubleshooting
 - Troubleshooting steps
 - Real-world scenarios
 
