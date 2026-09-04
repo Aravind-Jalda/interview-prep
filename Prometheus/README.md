@@ -10,7 +10,7 @@ Files:
 - `prometheus-scenarios.md`
 
 Covers:
-- Monitoring basics
+- Monitoring basics and Metrics
 - Metrics and alerting
 - PromQL queries
 - Real-time troubleshooting
