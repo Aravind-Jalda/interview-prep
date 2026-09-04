@@ -15,7 +15,7 @@ Example: 192.168.1.1
 ---
 
 ## 3. What is the difference between public and private IP?
-- Public IP → accessible from internet  
+- Public IP → accessible from internet  and Private IP
 - Private IP → used inside internal network  
 
 ---
