@@ -9,7 +9,7 @@ File:
 - `devops-general-qa.md`
 
 Covers:
-- Core DevOps concepts
+- Core DevOps concepts cicd
 - CI/CD basics
 - Containers and cloud
 - Monitoring and networking
