@@ -10,7 +10,7 @@ Files:
 - `troubleshooting-scenarios.md`
 
 Covers:
-- Debugging mindset
+- Debugging mindset real
 - Real-world issues
 - Step-by-step solutions
 
