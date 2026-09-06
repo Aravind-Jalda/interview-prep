@@ -10,7 +10,7 @@ The goal is to deliver software faster, more reliably, and with better quality u
 
 ## 2. Why DevOps is important?
 DevOps helps:
-- Faster delivery of applications  
+- Faster delivery of applications reduced
 - Reduced manual work  
 - Better collaboration  
 - Improved system stability  
