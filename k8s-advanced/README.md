@@ -10,7 +10,7 @@ Files:
 - `kubernetes-advanced-scenarios.md`
 
 Covers:
-- Scaling (HPA, VPA)
+- Scaling (HPA, VPA) networking
 - Networking (Ingress, Network Policies)
 - Security (RBAC)
 - Deployment strategies
