@@ -10,7 +10,7 @@ Troubleshooting is the process of identifying, analyzing, and fixing issues in s
 ## 2. What is your general troubleshooting approach?
 
 Step-by-step:
-1. Understand the problem  
+1. Understand the problem  check
 2. Check logs  
 3. Verify system status  
 4. Check dependencies  
