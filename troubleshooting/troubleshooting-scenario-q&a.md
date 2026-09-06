@@ -6,7 +6,7 @@
 
 Steps:
 - Check DNS 
-- Check load balancer  
+- Check load balancer  check
 - Check server status  
 - Check application logs  
 - Check firewall  
