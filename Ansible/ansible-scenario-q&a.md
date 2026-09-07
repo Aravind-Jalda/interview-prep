@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Playbook failed. What will you do?
+## 1. Playbook failed. What will you do? check
 
 - Check error message
 - Verify YAML syntax  
