@@ -3,12 +3,12 @@
 ---
 
 ## 1. What is networking?
-Networking is the communication between systems over a network.
+Networking is the communication between systems over a network. what
 
 ---
 
 ## 2. What is DNS?
-DNS (Domain Name System) converts domain names into IP addresses...
+DNS (Domain Name System) converts domain names into IP addresses.
 
 ---
 
