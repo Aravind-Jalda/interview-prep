@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Website is not accessible. What will you do?
+## 1. Website is not accessible. What will you do? check
 
 - Check DNS  ..
 - Check IP  
