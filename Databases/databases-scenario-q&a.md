@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Application is slow due to database. What will you do?
+## 1. Application is slow due to database. What will you do? check
 
 - Check query performance
 - Check indexes  
@@ -10,7 +10,7 @@
 
 ---
 
-## 2. Unable to connect to database..
+## 2. Unable to connect to database
 
 - Check DB status  
 - Check connection string  
