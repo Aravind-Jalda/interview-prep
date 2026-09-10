@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Credentials are exposed in code. What will you do?
+## 1. Credentials are exposed in code. What will you do? remove
 
 - Remove credentials
 - Rotate keys  ..
