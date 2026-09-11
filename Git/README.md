@@ -1,14 +1,14 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository is designed to help in technical interview preparation for DevOps roles by providing clear and simple explanations of key concepts.
+This repository is designed to help in technical interview preparation for DevOps roles by providing clear and simple explanations of key concepts. contents
 
 ---
 
 ## 📂 Contents
 
 - Git Interview Questions ✅
-- Linux Commands (Coming Soon)..
+- Linux Commands (Coming Soon)
 - AWS & Cloud (Planned)
 - CI/CD Tools (Planned)
 - Docker & Kubernetes (Planned)
