@@ -2,7 +2,7 @@
 
 ---
 
-## 1. You pushed wrong code to production via Jenkins. What will you do?
+## 1. You pushed wrong code to production via Jenkins. What will you do? first
 
 First, I will immediately stop any ongoing deployments in Jenkins...
 Then:
