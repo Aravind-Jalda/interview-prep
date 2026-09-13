@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Application is failing. How do you debug?
+## 1. Application is failing. How do you debug? check
 
 - Check logs  
 - Identify error  
