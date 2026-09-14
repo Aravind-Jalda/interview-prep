@@ -1,9 +1,9 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository helps in preparing for DevOps interviews with practical and simple explanations. ansible
+This repository helps in preparing for DevOps interviews with practical and simple explanations.
 
-## ⚙️ Ansible Section..
+## ⚙️ Ansible Section
 
 Files:
 - `ansible-qa.md`
