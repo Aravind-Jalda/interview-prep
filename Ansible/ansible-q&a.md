@@ -3,11 +3,11 @@
 ---
 
 ## 1. What is Ansible?
-Ansible is an open-source automation tool used for configuration management, application deployment, and orchestration. why
+Ansible is an open-source automation tool used for configuration management, application deployment, and orchestration.
 
 ---
 
-## 2. Why Ansible is used in DevOps?..
+## 2. Why Ansible is used in DevOps?
 Ansible helps automate repetitive tasks like server setup, deployments, and configuration updates.
 
 ---
