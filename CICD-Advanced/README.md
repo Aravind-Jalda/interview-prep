@@ -1,12 +1,12 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository helps in preparing for DevOps interviews with practical and real-world explanations. files
+This repository helps in preparing for DevOps interviews with practical and real-world explanations.
 
 ## 🚀 CI/CD Advanced Section
 
 Files:
-- `cicd-advanced-qa.md`..
+- `cicd-advanced-qa.md`
 - `cicd-advanced-scenarios.md`
 
 Covers:
