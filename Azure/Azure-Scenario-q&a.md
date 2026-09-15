@@ -2,9 +2,9 @@
 
 ---
 
-## 1. Your application hosted on Azure is down. What will you check? VM
+## 1. Your application hosted on Azure is down. What will you check?
 
-- VM/App Service status, status
+- VM/App Service status,
 - NSG rules  
 - Load balancer health  
 - Logs (Azure Monitor)  
