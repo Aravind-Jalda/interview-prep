@@ -1,12 +1,12 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository helps in preparing for DevOps interviews with practical and real-world explanations. dns
+This repository helps in preparing for DevOps interviews with practical and real-world explanations.
 
 ## 🌐 DNS & Networking Section
 
 Files:
-- `dns-networking-qa.md`..
+- `dns-networking-qa.md`
 - `dns-networking-scenarios.md`
 
 Covers:
