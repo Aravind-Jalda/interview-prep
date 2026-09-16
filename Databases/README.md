@@ -1,9 +1,9 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository helps in preparing for DevOps interviews with practical and real-world explanations. database
+This repository helps in preparing for DevOps interviews with practical and real-world explanations.
 
-## 🗄️ Database Section..
+## 🗄️ Database Section
 
 Files:
 - `database-qa.md`
