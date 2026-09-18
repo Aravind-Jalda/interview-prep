@@ -3,13 +3,13 @@
 ---
 
 ## 1. What is Docker?
-Docker is a containerization platform used to package applications and their dependencies into containers. containers
+Docker is a containerization platform used to package applications and their dependencies into containers.
 Containers ensure the application runs the same in any environment.
 
 ---
 
 ## 2. What is a container?
-A container is a lightweight, isolated environment where an application runs...
+A container is a lightweight, isolated environment where an application runs.
 It shares the host OS kernel but runs independently.
 
 ---
