@@ -1,7 +1,7 @@
 # 📚 Interview Prep Repository
 
 ## 📌 Objective
-This repository helps in preparing for DevOps interviews with practical and simple explanations. grafana section
+This repository helps in preparing for DevOps interviews with practical and simple explanations.
 
 ## 📊 Grafana Section
 
