@@ -2,11 +2,11 @@
 
 ---
 
-## 1. Application is not accessible (Most Common Question)..
+## 1. Application is not accessible (Most Common Question)
 
 Steps:
 - Check DNS 
-- Check load balancer  check
+- Check load balancer
 - Check server status  
 - Check application logs  
 - Check firewall  
