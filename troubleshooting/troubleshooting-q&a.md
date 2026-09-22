@@ -3,14 +3,14 @@
 ---
 
 ## 1. What is troubleshooting in DevOps?
-Troubleshooting is the process of identifying, analyzing, and fixing issues in systems or applications...
+Troubleshooting is the process of identifying, analyzing, and fixing issues in systems or applications.
 
 ---
 
 ## 2. What is your general troubleshooting approach?
 
 Step-by-step:
-1. Understand the problem  check
+1. Understand the problem
 2. Check logs  
 3. Verify system status  
 4. Check dependencies  
